@@ -2,8 +2,18 @@
 Oracle Cloud Applications setup BI Publisher Reports
 Description: BI Publisher reports with Setup and Maintenance data for support and documentation purposes. 
 ------------------------------------------------------------------------------------------------------------------------
-Setup: Financials > Functional Area: Transaction Tax > Task: Manage Tax Regimes
+Setup: Financials > Functional Area: Transaction Tax > Task: Manage Taxes
 Author: https://www.linkedin.com/in/cristian-arakaki/
 Date: 2026-10-19
 Version: 26C
+------------------------------------------------------------------------------------------------------------------------
+-- Report: Manage Tax Regimes
+-- Data Model: Manage Tax Regimes DM
+-- Data Set: ZX_REGIMES_B
+------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+-- Report: Manage Tax Regimes
+-- Data Model: Manage Tax Regimes DM
+-- List of Values: lovTax
+-- Cristian A. Arakaki - 2026-10-19 - Manage Taxes
 ------------------------------------------------------------------------------------------------------------------------
