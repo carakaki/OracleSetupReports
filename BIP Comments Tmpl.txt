@@ -17,3 +17,4 @@ Version: 26C
 -- List of Values: lovTax
 -- Cristian A. Arakaki - 2026-10-19 - Manage Taxes
 ------------------------------------------------------------------------------------------------------------------------
+https://github.com/carakaki
