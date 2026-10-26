@@ -10,7 +10,8 @@ select ztb.tax_regime_code,
        ztb.effective_from,
        ztb.effective_to,
        ztb.allow_exceptions_flag,
-       ztb.allow_exemptions_flag
+       ztb.allow_exemptions_flag,
+       ztb.default_tax_rate_code
   from zx_taxes_b ztb,
        zx_taxes_tl ztt
  where ztb.tax_id = ztt.tax_id
